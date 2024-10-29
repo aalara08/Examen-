@@ -1,0 +1,7 @@
+C:\Users\CC2_PC41\Examen\alcala\alcala\bin\Debug\alcala.exe
+C:\Users\CC2_PC41\Examen\alcala\alcala\bin\Debug\alcala.pdb
+C:\Users\CC2_PC41\Examen\alcala\alcala\obj\Debug\alcala.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC41\Examen\alcala\alcala\obj\Debug\alcala.MainForm.resources
+C:\Users\CC2_PC41\Examen\alcala\alcala\obj\Debug\alcala.csproj.GenerateResource.Cache
+C:\Users\CC2_PC41\Examen\alcala\alcala\obj\Debug\alcala.exe
+C:\Users\CC2_PC41\Examen\alcala\alcala\obj\Debug\alcala.pdb
