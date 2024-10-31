@@ -1,0 +1,7 @@
+C:\Users\cc2-pc06\Examen-\Gerardo humanidades\Gerardo humanidades\bin\Debug\Gerardo humanidades.exe
+C:\Users\cc2-pc06\Examen-\Gerardo humanidades\Gerardo humanidades\bin\Debug\Gerardo humanidades.pdb
+C:\Users\cc2-pc06\Examen-\Gerardo humanidades\Gerardo humanidades\obj\Debug\Gerardo humanidades.csprojResolveAssemblyReference.cache
+C:\Users\cc2-pc06\Examen-\Gerardo humanidades\Gerardo humanidades\obj\Debug\Gerardo_humanidades.MainForm.resources
+C:\Users\cc2-pc06\Examen-\Gerardo humanidades\Gerardo humanidades\obj\Debug\Gerardo humanidades.csproj.GenerateResource.Cache
+C:\Users\cc2-pc06\Examen-\Gerardo humanidades\Gerardo humanidades\obj\Debug\Gerardo humanidades.exe
+C:\Users\cc2-pc06\Examen-\Gerardo humanidades\Gerardo humanidades\obj\Debug\Gerardo humanidades.pdb
