@@ -1,40 +1,37 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC41
- * Date: 29/10/2024
- * Time: 03:02 p. m.
+ * User: CC2_PC10
+ * Date: 31/10/2024
+ * Time: 08:06 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
 namespace alcala
 {
 	/// <summary>
-	/// Description of MainForm.
+	/// Description of ecologia.
 	/// </summary>
-	public partial class MainForm : Form
+	public partial class ecologia : Form
 	{
-		
-		public MainForm()
+		public ecologia()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
 			InitializeComponent();
+			
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
 		
-		
-		void BtnEntrarClick(object sender, EventArgs e)
+		void Label1Click(object sender, EventArgs e)
 		{
-			ecologia ecologia = new ecologia();
-			ecologia.Show();
+			
 		}
 	}
 }
