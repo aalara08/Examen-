@@ -13,3 +13,13 @@ C:\Users\CC2_PC10\Examen-\alcala\alcala\obj\Debug\alcala.csproj.GenerateResource
 C:\Users\CC2_PC10\Examen-\alcala\alcala\obj\Debug\alcala.exe
 C:\Users\CC2_PC10\Examen-\alcala\alcala\obj\Debug\alcala.pdb
 C:\Users\CC2_PC10\Examen-\alcala\alcala\obj\Debug\alcala.ecologia.resources
+C:\Users\novar\repos\Examen-\alcala\alcala\bin\Debug\alcala.exe
+C:\Users\novar\repos\Examen-\alcala\alcala\bin\Debug\alcala.pdb
+C:\Users\novar\repos\Examen-\alcala\alcala\obj\Debug\alcala.csprojResolveAssemblyReference.cache
+C:\Users\novar\repos\Examen-\alcala\alcala\obj\Debug\alcala.ecologia.resources
+C:\Users\novar\repos\Examen-\alcala\alcala\obj\Debug\alcala.MainForm.resources
+C:\Users\novar\repos\Examen-\alcala\alcala\obj\Debug\alcala.csproj.GenerateResource.Cache
+C:\Users\novar\repos\Examen-\alcala\alcala\obj\Debug\alcala.exe
+C:\Users\novar\repos\Examen-\alcala\alcala\obj\Debug\alcala.pdb
+C:\Users\novar\repos\Examen-\alcala\alcala\obj\Debug\alcala.Ingles.resources
+C:\Users\novar\repos\Examen-\alcala\alcala\obj\Debug\alcala.Humanidades.resources

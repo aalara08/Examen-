@@ -30,11 +30,27 @@ namespace alcala
 			//
 		}
 		
-		
 		void BtnEntrarClick(object sender, EventArgs e)
 		{
-			ecologia ecologia = new ecologia();
-			ecologia.Show();
+			if(comboBoxMaterias.SelectedItem!=null)
+			{
+				if(comboBoxMaterias.SelectedItem.ToString()=="Ecologia")
+				{
+					ecologia ecologia = new ecologia();
+					ecologia.Show();
+				}
+				else if(comboBoxMaterias.SelectedItem.ToString()=="Ingles")
+				{
+					Ingles ingles = new Ingles();
+					ingles.Show();
+				}
+				else if(comboBoxMaterias.SelectedItem.ToString()=="Humanidades")
+				{
+					Humanidades humanidades = new Humanidades();
+					humanidades.Show();
+				}
+				
+			}
 		}
 	}
 }

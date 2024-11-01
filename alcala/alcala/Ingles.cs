@@ -1,23 +1,24 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC10
- * Date: 31/10/2024
- * Time: 08:06 a. m.
+ * User: novar
+ * Date: 01/11/2024
+ * Time: 11:32 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 using System.Drawing;
 using System.Windows.Forms;
+using System.Speech.Synthesis;
 
 namespace alcala
 {
 	/// <summary>
-	/// Description of ecologia.
+	/// Description of Ingles.
 	/// </summary>
-	public partial class ecologia : Form
+	public partial class Ingles : Form
 	{
-		public ecologia()
+		public Ingles()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -29,7 +30,14 @@ namespace alcala
 			//
 		}
 		
-		void BtnSalirEcoClick(object sender, EventArgs e)
+		void BtnLeerClick(object sender, EventArgs e)
+		{
+			SpeechSynthesizer s = new SpeechSynthesizer();
+			string texto = lblIngles.Text;
+			s.Speak(texto);
+		}
+		
+		void BtnSalirIngClick(object sender, EventArgs e)
 		{
 			Hide();
 		}

@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC10
- * Date: 31/10/2024
- * Time: 08:06 a. m.
+ * User: novar
+ * Date: 01/11/2024
+ * Time: 11:57 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace alcala
 {
 	/// <summary>
-	/// Description of ecologia.
+	/// Description of Matematicas.
 	/// </summary>
-	public partial class ecologia : Form
+	public partial class Matematicas : Form
 	{
-		public ecologia()
+		public Matematicas()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -27,11 +27,6 @@ namespace alcala
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
-		}
-		
-		void BtnSalirEcoClick(object sender, EventArgs e)
-		{
-			Hide();
 		}
 	}
 }
